@@ -1,2 +1,2 @@
-# CPSC_210_Software_Construction
+# CPSC_210_software_construction
 code for UBCs software construction, data abstraction course
