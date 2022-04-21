@@ -14,9 +14,7 @@ public class Shape {
     private int y;
     private int width;
     private int height;
-
     private boolean selected;
-
     private MidiSynth midiSynth;
     private int instrument;
     private int playLineCoord;
